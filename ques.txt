@@ -1,0 +1,7 @@
+Write a program to insert an element in the beginning, and at a particular position.
+Write a program to understand the concept of array storage upto n dimension of array.
+write a program to develop a Book Management System for library that helps track book referred by person. Each book returned should be pushed into stack. Reform  this functionality using array.
+Write a program to implement customer service Queue Management System for a retail store.->Queue using array
+Implement single ll
+polynomial equation
+
